@@ -1,0 +1,16 @@
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\bin\Debug\Kapsamlı_Uygulama.exe.config
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\bin\Debug\Kapsamlı_Uygulama.exe
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\bin\Debug\Kapsamlı_Uygulama.pdb
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.csprojAssemblyReference.cache
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.Properties.Resources.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.csproj.GenerateResource.cache
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.exe
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.pdb
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmGiriş.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmAnasayfa.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmKayıtOl.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmKutuphane.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmSecim.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmSecimGrafik.resources
+C:\Users\korog\source\repos\Kapsamlı_Uygulama\Kapsamlı_Uygulama\obj\Debug\Kapsamlı_Uygulama.FrmOkul.resources
